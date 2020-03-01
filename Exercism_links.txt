@@ -1,0 +1,4 @@
+https://exercism.io/tracks/fsharp/exercises/two-fer/solutions/e558ce3aecd64d90816278dcba5f5805
+https://exercism.io/tracks/fsharp/exercises/sum-of-multiples/solutions/0d2743b849ea491db4dbc0e672d2369f
+https://exercism.io/tracks/fsharp/exercises/isogram/solutions/60813445b5fc40c1b9b094517b4cd4f7
+//leap still in review on exercism
